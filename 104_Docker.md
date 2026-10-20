@@ -10,11 +10,12 @@
 Выполнить работу Docker for Beginners по ссылке <https://training.play-with-docker.com/beginner-linux/>
 
 Работа содержит пошаговые задания по запуску готовых контейнеров (Alpine, Ubuntu, MySQL), сборке собственного веб-приложения через Dockerfile, настройке монтирования (bind mounts) и публикации образов на Docker Hub.
+
 ---
 
 ## Отчет
 
-Создать pull request в репозиторий <https://github.com/EngeneeringMindset2026/Practice104>. В PR создать каталог с именем `ФамилияИО`.
+Создать pull request в репозиторий <https://github.com/EngeneeringMindset2026/Practice104>. В PR создать каталог со своим именем `ФамилияИО`.
 
 ### Каталог `ФамилияИО` должен содержать
 
