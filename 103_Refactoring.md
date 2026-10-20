@@ -42,7 +42,7 @@ Pull Request должен соответствовать следующим тр
 #№ Требования к отчёту
 
 В репозитории  
-https://github.com/SoftwareEngineering2026/Practice103
+<https://github.com/EngeneeringMindset2026/Practice103>
 
 необходимо создать папку:
 
